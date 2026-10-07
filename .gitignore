@@ -21,3 +21,7 @@ qa-artifacts/
 3d-models/
 pinokio/ENVIRONMENT
 pinokio/.installed
+
+# Restricted ELEY run inputs and outputs
+eley-runs/
+customer-imports/
